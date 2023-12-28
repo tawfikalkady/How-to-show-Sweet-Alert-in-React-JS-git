@@ -1,0 +1,23 @@
+https://sweetalert2.github.io/
+npm install sweetalert2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
